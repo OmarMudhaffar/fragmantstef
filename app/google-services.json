@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "756089682882",
+    "firebase_url": "https://omarreal-756e4.firebaseio.com",
+    "project_id": "omarreal-756e4",
+    "storage_bucket": "omarreal-756e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756089682882:android:186e17a549fe434c",
+        "android_client_info": {
+          "package_name": "test.com.idteam.omarreal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756089682882-blt6es27pnibp1hmk869m83dbl69dip0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "test.com.idteam.omarreal",
+            "certificate_hash": "4666c02c8aaa918323af643563ce26974fa79060"
+          }
+        },
+        {
+          "client_id": "756089682882-10kkbdknjf7cbff9gv2s5qglt7o9pb8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0f3dFz7g-b9lm9KeJdoE-0CSFstbNeYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756089682882-10kkbdknjf7cbff9gv2s5qglt7o9pb8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
